@@ -14,26 +14,20 @@ video_sets:
     crop: 0, 1080, 0, 1920
 individuals:
 - individual1
-uniquebodyparts: []
+uniquebodyparts: 
+- cornoroflab1
+- cornoroflab2
 multianimalbodyparts:
 - bodypart1
 - bodypart2
 - bodypart3
 - bodypart4
-- bodypart5 
+- bodypart5
 skeleton:
 - - bodypart1
   - bodypart2
-- - bodypart1
-  - bodypart3
-- - bodypart1
-  - bodypart4
-- - bodypart1
-  - bodypart5
 - - bodypart2
   - bodypart3
-- - bodypart2
-  - bodypart4
 - - bodypart3
   - bodypart4
 - - bodypart4
