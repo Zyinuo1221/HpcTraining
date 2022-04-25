@@ -10,7 +10,7 @@ project_path: /Users/yinuozhao/labelviedo-LabelViedo-2022-04-25
 
     # Annotation data set configuration (and individual video cropping parameters)
 video_sets:
-  /Users/yinuozhao/Desktop/videos/slow01_original_02.mp4:
+  videos/slow01_original_02.mp4:
     crop: 0, 1080, 0, 1920
 individuals:
 - individual1
