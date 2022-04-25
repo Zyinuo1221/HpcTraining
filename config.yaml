@@ -6,11 +6,11 @@ multianimalproject: true
 identity: false
 
     # Project path (change when moving around)
-project_path: /Users/yinuozhao/labelviedo-LabelViedo-2022-04-25
+project_path: WILL BE AUTOMATICALLY UPDATED BY DEMO CODE
 
     # Annotation data set configuration (and individual video cropping parameters)
 video_sets:
-  videos/slow01_original_02.mp4:
+  WILL BE AUTOMATICALLY UPDATED BY DEMO CODE:
     crop: 0, 1080, 0, 1920
 individuals:
 - individual1
